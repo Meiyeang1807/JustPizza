@@ -39,5 +39,10 @@ namespace JustPizza
             textBoxUsername.Text = "";
             textBoxPassword.Text = "";
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
